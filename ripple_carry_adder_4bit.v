@@ -1,5 +1,4 @@
 // Lab 2: 4-bit Ripple Carry Adder
-// combining everything in one file so vivado doesnt mess up paths
 
 module internal_fa(
     input x, y, c_in,
