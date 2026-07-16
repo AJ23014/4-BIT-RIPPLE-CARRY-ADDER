@@ -17,7 +17,7 @@ This project implements a 4-bit Ripple Carry Adder (RCA) using Verilog HDL. The 
 * **README.md**
 * **4bitripplecarryadder.v**
 * **ripplecarrytest.v**
-* **schematic_4bit_rca.png**
+* **schematic_4bit_rca (2).png**
 * **waveform_4bit_rca_simulation.png**
 
 ---
